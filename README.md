@@ -34,5 +34,5 @@ To use the Python basics codes in this repository:
 Contributions to this repository are welcome! If you have additional Python basics codes or improvements to existing code, feel free to submit a pull request.
 
 ## License
-[LICENSE]
+-[Please refer the licence section.]
 
